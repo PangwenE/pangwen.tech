@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Google Sans', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.discord {
+    font-size: 24px;
+    color: #7289DA;
+    margin-top: 20px;
+}
