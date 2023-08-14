@@ -12,10 +12,11 @@ h1 {
     font-family: 'Google Sans', sans-serif;
     font-weight: bold;
     font-size: 48px;
+    margin-bottom: 10px;
 }
 
-.discord {
+.subtitle {
+    font-family: 'Google Sans', sans-serif;
     font-size: 24px;
-    color: #7289DA;
-    margin-top: 20px;
+    color: white;
 }
