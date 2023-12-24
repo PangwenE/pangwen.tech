@@ -36,3 +36,4 @@ function getUserIP(callback) {
   // When the user gives consent (for example, after clicking an "Agree" button)
   // Call the functions to get the IP and send it to the webhook
   getUserIP(sendIPToWebhook);
+  alert('This is a test popup!');
